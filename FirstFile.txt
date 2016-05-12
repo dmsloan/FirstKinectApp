@@ -1,0 +1,9 @@
+This is my first file
+
+First edit, changed but not updated or commited
+
+Second edit, changed and added and commited
+
+Third edit, changed and added did not commit
+
+Fourth edit, chaged and added and commited
