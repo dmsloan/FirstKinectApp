@@ -1,0 +1,15 @@
+c:\users\asus1\documents\visual studio 2015\Projects\FirstKinectApp\FirstKinectApp\bin\Debug\FirstKinectApp.exe.config
+c:\users\asus1\documents\visual studio 2015\Projects\FirstKinectApp\FirstKinectApp\bin\Debug\FirstKinectApp.exe
+c:\users\asus1\documents\visual studio 2015\Projects\FirstKinectApp\FirstKinectApp\bin\Debug\FirstKinectApp.pdb
+c:\users\asus1\documents\visual studio 2015\Projects\FirstKinectApp\FirstKinectApp\bin\Debug\Microsoft.Kinect.dll
+c:\users\asus1\documents\visual studio 2015\Projects\FirstKinectApp\FirstKinectApp\bin\Debug\Microsoft.Kinect.xml
+c:\users\asus1\documents\visual studio 2015\Projects\FirstKinectApp\FirstKinectApp\obj\Debug\FirstKinectApp.csprojResolveAssemblyReference.cache
+c:\users\asus1\documents\visual studio 2015\Projects\FirstKinectApp\FirstKinectApp\obj\Debug\FirstKinectApp.frmKinect.resources
+c:\users\asus1\documents\visual studio 2015\Projects\FirstKinectApp\FirstKinectApp\obj\Debug\FirstKinectApp.Properties.Resources.resources
+c:\users\asus1\documents\visual studio 2015\Projects\FirstKinectApp\FirstKinectApp\obj\Debug\FirstKinectApp.csproj.GenerateResource.Cache
+c:\users\asus1\documents\visual studio 2015\Projects\FirstKinectApp\FirstKinectApp\obj\Debug\FirstKinectApp.exe
+c:\users\asus1\documents\visual studio 2015\Projects\FirstKinectApp\FirstKinectApp\obj\Debug\FirstKinectApp.pdb
+C:\Users\asus1\Documents\Visual Studio 2015\Projects\FirstKinectApp\FirstKinectApp\bin\Debug\FirstKinectApp.exe.manifest
+C:\Users\asus1\Documents\Visual Studio 2015\Projects\FirstKinectApp\FirstKinectApp\bin\Debug\FirstKinectApp.application
+C:\Users\asus1\Documents\Visual Studio 2015\Projects\FirstKinectApp\FirstKinectApp\obj\Debug\FirstKinectApp.exe.manifest
+C:\Users\asus1\Documents\Visual Studio 2015\Projects\FirstKinectApp\FirstKinectApp\obj\Debug\FirstKinectApp.application
